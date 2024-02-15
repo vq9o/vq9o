@@ -4,33 +4,28 @@
 I am a web & engine developer and system administrator. I been working in development for the past 7 years.
 
 ## Current Employment
-Chief Executive Officer @ Metatable Games
-Indie development studio for passion projects on Steam with friends.
+* Chief Executive Officer @ Metatable Games
+*Indie development studio for passion projects on Steam with friends.*
+* Chief Executive Officer @ RAMPAGE Interactive
 
-Chief Executive Officer @ BrickVerse.gg
-As CEO I oversee all operations of the BrickVerse.gg.
-
-Chief Executive Officer @ RAMPAGE Interactive
-As CEO I oversee all operations of RAMPAGE Interactive including its subsidaries such as RAMPAGE.Host, RAMPAGE Gaming, RAMPAGE Studio, RAMPAGE North, RAMPAGE London, and more.
-
-Software Engineer @ Tridon Technologies
-*Technical Advisor and Contractor*
-
-Software Engineer, 3D Animator, and UI/UX Artist @ CreepySin's Manufacturing Department by Bulk Games
-Project Lead @ RoSource Project
-Technical Advisor @ Failure Incorporated
-Technical Advisor @ Lethal Defense
+*As CEO I oversee all operations of RAMPAGE Interactive including its subsidaries such as RAMPAGE.Host, RAMPAGE Gaming, RAMPAGE Studio, RAMPAGE North, RAMPAGE London, and more.*
+* Chief Executive Officer @ BrickVerse.gg
+* Software Engineer, 3D Animator, and UI/UX Artist @ CreepySin's Manufacturing Department by Bulk Games
+* Project Lead @ RoSource Project
+* Technical Advisor @ Failure Incorporated
+* Technical Advisor @ Lethal Defense
+* Technical Advisor @ Tridon Technologies
 
 ### Previous Employment
-Studio Staff @ Bulk Games
-Principal Software Engineer @ Bloxplay Corporation
-Principal Software Engineer @ Bloxsoft Corporation
-Principal Software Engineer @ DOJ 5
-Principal Software Engineer @ Terabyte Technology
-Software Engineer & UI/UX Artist @ CRC
-Software Engineer & UI/UX Artist @ csimple Studios
-Software Engineer @ Stellantis Studios
-Support Specialist @ JetStax.com
+* Studio Staff @ Bulk Games
+* Principal Software Engineer @ Bloxplay Corporation
+* Principal Software Engineer @ Bloxsoft Corporation
+* Principal Software Engineer @ DOJ 5
+* Principal Software Engineer @ Terabyte Technology
+* Software Engineer & UI/UX Artist @ CRC
+* Software Engineer & UI/UX Artist @ csimple Studios
+* Software Engineer @ Stellantis Studios
+* Support Specialist @ JetStax.com
 
 * Not full list.
 
