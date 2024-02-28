@@ -5,10 +5,7 @@ I am a web & engine developer and system administrator. I been working in develo
 
 ## Current Employment
 * Chief Executive Officer @ Metatable Games
-*Indie development studio for passion projects on Steam with friends.*
 * Chief Executive Officer @ RAMPAGE Interactive
-
-*As CEO I oversee all operations of RAMPAGE Interactive including its subsidaries such as RAMPAGE.Host, RAMPAGE Gaming, RAMPAGE Studio, RAMPAGE North, RAMPAGE London, and more.*
 * Chief Executive Officer @ BrickVerse.gg
 * Software Engineer, 3D Animator, and UI/UX Artist @ CreepySin's Manufacturing Department by Bulk Games
 * Project Lead @ RoSource Project
