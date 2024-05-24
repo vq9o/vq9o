@@ -4,16 +4,17 @@
 I am a web & engine developer and system administrator. I been working in development for the past 7 years.
 
 ## Current Employment
-* Chief Executive Officer @ Metatable Games
 * Chief Executive Officer @ RAMPAGE Interactive
-* Chief Executive Officer @ BrickVerse.gg
-* Software Engineer, 3D Animator, and UI/UX Artist @ CreepySin's Manufacturing Department by Bulk Games
 * Project Lead @ RoSource Project
 * Technical Advisor @ Failure Incorporated
 * Technical Advisor @ Lethal Defense
 * Technical Advisor @ Tridon Technologies
 
 ### Previous Employment
+* Principal Software Engineer, 3D Animator, and UI/UX Artist @ MaD, department of Bulk Games.
+* 3D Animator @ Bulk Games
+* Music Composer @ Bulk Games
+* UI/UX Artist  @ Bulk Games
 * Studio Staff @ Bulk Games
 * Principal Software Engineer @ Bloxplay Corporation
 * Principal Software Engineer @ Bloxsoft Corporation
