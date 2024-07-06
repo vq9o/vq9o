@@ -5,7 +5,6 @@ I am a web & engine developer and system administrator. I been working in develo
 
 ## Current Employment
 * Chief Executive Officer @ RAMPAGE Interactive
-* Project Lead @ RoSource Project
 * Technical Advisor @ Failure Incorporated
 * Technical Advisor @ Lethal Defense
 * Technical Advisor @ Tridon Technologies
@@ -14,6 +13,7 @@ I am a web & engine developer and system administrator. I been working in develo
 * Software Engineer & UI/UX Artist @ Raddleton Police Department.
 
 ### Previous Employment
+* Project Lead @ RoSource Project
 * Principal Software Engineer, 3D Animator, and UI/UX Artist @ MaD, department of Bulk Games.
 * 3D Animator @ Bulk Games
 * Music Composer @ Bulk Games
