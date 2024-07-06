@@ -9,8 +9,9 @@ I am a web & engine developer and system administrator. I been working in develo
 * Technical Advisor @ Lethal Defense
 * Technical Advisor @ Tridon Technologies
 * Principal Software Engineer, 3D Animator, and UI/UX Artist @ ImageWorks
-* Principal Software Engineer & Engineering Lead @ Apollo Bay, Victoria, Australia.
-* Software Engineer & UI/UX Artist @ Raddleton Police Department.
+* Principal Software Engineer & Engineering Lead @ Apollo Bay, Victoria, Australia
+* Software Engineer @ Kheima Research Facility
+* Software Engineer & UI/UX Artist @ Raddleton Police Department
 
 ### Previous Employment
 * Project Lead @ RoSource Project
