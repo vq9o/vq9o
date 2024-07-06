@@ -9,6 +9,8 @@ I am a web & engine developer and system administrator. I been working in develo
 * Technical Advisor @ Failure Incorporated
 * Technical Advisor @ Lethal Defense
 * Technical Advisor @ Tridon Technologies
+* Principal Software Engineer, 3D Animator, and UI/UX Artist @ ImageWorks
+* Principal Software Engineer & Engineering Lead @ Apollo Bay, Victoria, Australia.
 
 ### Previous Employment
 * Principal Software Engineer, 3D Animator, and UI/UX Artist @ MaD, department of Bulk Games.
