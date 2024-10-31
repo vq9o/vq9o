@@ -10,11 +10,11 @@ I am a web & engine developer and system administrator. I been working in develo
 * Technical Advisor @ Tridon Technologies
 * Principal Software Engineer, 3D Animator, and UI/UX Artist @ ImageWorks
 * Principal Software Engineer & Engineering Lead @ Apollo Bay, Victoria, Australia
-* Contractor @ Central Intelligence Agency
 * Software Engineer @ Kheima Research Facility
-* Software Engineer & UI/UX Artist @ Raddleton Police Department
 
 ### Previous Employment
+* Contractor @ Central Intelligence Agency
+* Software Engineer & UI/UX Artist @ Raddleton Police Department
 * Project Lead @ RoSource Project
 * Principal Software Engineer, 3D Animator, and UI/UX Artist @ MaD, department of Bulk Games.
 * 3D Animator @ Bulk Games
