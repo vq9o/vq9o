@@ -1,36 +1,7 @@
 # Hello, I'm vq9o, also known as Metatable 👋
 
 ## About me ℹ️
-I am a web & engine developer and system administrator. I been working in development for the past 7 years.
-
-## Current Employment
-* Chief Executive Officer @ RAMPAGE Interactive
-* Technical Advisor @ Failure Incorporated
-* Technical Advisor @ Lethal Defense
-* Technical Advisor @ Tridon Technologies
-* Principal Software Engineer, 3D Animator, and UI/UX Artist @ ImageWorks
-* Principal Software Engineer & Engineering Lead @ Apollo Bay, Victoria, Australia
-* Software Engineer @ Kheima Research Facility
-
-### Previous Employment
-* Contractor @ Central Intelligence Agency
-* Software Engineer & UI/UX Artist @ Raddleton Police Department
-* Project Lead @ RoSource Project
-* Principal Software Engineer, 3D Animator, and UI/UX Artist @ MaD, department of Bulk Games.
-* 3D Animator @ Bulk Games
-* Music Composer @ Bulk Games
-* UI/UX Artist  @ Bulk Games
-* Studio Staff @ Bulk Games
-* Principal Software Engineer @ Bloxplay Corporation
-* Principal Software Engineer @ Bloxsoft Corporation
-* Principal Software Engineer @ DOJ 5
-* Principal Software Engineer @ Terabyte Technology
-* Software Engineer & UI/UX Artist @ CRC
-* Software Engineer & UI/UX Artist @ csimple Studios
-* Software Engineer @ Stellantis Studios
-* Support Specialist @ JetStax.com
-
-* Not full list.
+I am a web & engine developer and system administrator.
 
 ## Get in touch 💬
 | Platform  | Link |
