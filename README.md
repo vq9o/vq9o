@@ -10,7 +10,7 @@ I am a web & engine developer and system administrator.
 | E-Mail | inquiry.metatable.dev |
 
 ## Skills 💻
-I work with C, C#, CPP, Lua, BrickLua, Luau, PHP, Python, GDScript, JavaScript, MetaScript, and many more languages.
+I work with C, C#, CPP, Lua/Luau, PHP, Python, GDScript, JavaScript, and many more languages/software.
 
 ### Tools
 ![VS Code](	https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
