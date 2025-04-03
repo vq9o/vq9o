@@ -1,24 +1,7 @@
 # Hello, I'm vq9o, also known as Metatable 👋
 
 ## About me ℹ️
-I am a web & engine developer and system administrator.
-
-## Get in touch 💬
-| Platform  | Link |
-| ------------- | ------------- |
-| GitHub | [Click here](https://github.com/vq9o/vq9o) |
-| E-Mail | inquiry.metatable.dev |
-
-## Skills 💻
-I work with C, C#, CPP, Lua/Luau, PHP, Python, GDScript, JavaScript, and many more languages/software.
-
-### Tools
-![VS Code](	https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-![Oprea GX](https://img.shields.io/badge/Oprea%20GX-red.svg?style=for-the-badge&logo=opera&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Chrome-orange.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+I'm a Software engineer, I work with PHP, C#, TypeScript, Luau, and many other languages.
 
 ## My stats 📊
 ![](https://komarev.com/ghpvc/?username=vq9o&color=5865F2)  
