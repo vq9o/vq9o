@@ -15,5 +15,8 @@ I'm a Software engineer, I work with PHP, C#, TypeScript, Luau, and many other l
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vq9o&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### GitRoll
+<a href="https://gitroll.io/profile/uNeiKvVGQOrXY5bgrLcGfmmHtNue2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uNeiKvVGQOrXY5bgrLcGfmmHtNue2?theme=dark" alt="GitRoll Profile Badge"/></a>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
